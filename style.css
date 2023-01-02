@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+body {
+    font-family: 'Playfair Display', sans-serif;
+    /*height: auto;
+    width: 100%;*/
+    background: fixed;
+    background-color: #6c757d;
+    background-image: linear-gradient(#6c757d, #dee2e6);
+    margin: 40px;
+    text-align: justify;
+    text-size-adjust: 50px;
+}
+
+
+p {
+    text-indent: 20px;
+}
+
+ul {
+    text-align: left;
+    list-style-type: disc;
+    padding-left: 190px;
+    margin-bottom: 35px;
+}
+
+li {
+    font-size: 17px;
+}
+
+.titlu h1 {
+    padding-left: 130px;
+    font-size: 40px;
+    text-decoration-line: overline underline;
+    text-decoration-color: #0d47a1;
+}
+
+/*paragraf 1*/
+.a h2 {
+    font-size: 30px;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: #4e148c;
+}
+.a h3 {
+    font-size: 21px;
+    /*text-shadow: 2px 2px 4px #b80c09;*/
+    text-shadow: 0 0 3px #FF0000, 0 0 10px #1a1a1a;
+}
+.a i {
+    background-color: #e7d8c9;
+}
+.a a img {
+    height: 400px;
+    width: 30%;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px #39393a;
+}
+
+/*paragraf 2*/
+.b h3 {
+    font-size: 21px;
+    text-shadow: 2px 2px 4px #56cbf9;
+    /*text-shadow: 0 0 3px #56cbf9, 0 0 5px #1a1a1a;*/
+}
+.b i {
+    background-color: #e7d8c9;
+}
+.b a img {
+    height: 250px;
+    width: 22%;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px #696773;
+}
+
+/*paragraf 3*/
+.c h3 {
+    font-size: 21px;
+    /*text-shadow: 2px 2px 4px #8fc93a;*/
+    text-shadow: 0 0 3px #8fc93a, 0 0 10px #1a1a1a;
+}
+.c i {
+    background-color: #e7d8c9;
+}
+.c a img {
+    height: 450px;
+    width: 35%;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px #363946;
+}
